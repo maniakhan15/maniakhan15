@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;
-<a href="www.linkedin.com/in/maniakhan">
+<a href="https://www.linkedin.com/in/maniakhan/">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -231,7 +231,7 @@ Exploring Python-based analytics, data cleaning, visualization and financial dat
 
 <br>
 
-<a href="www.linkedin.com/in/maniakhan">
+<a href="https://www.linkedin.com/in/maniakhan/">
 <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
