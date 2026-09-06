@@ -1,6 +1,6 @@
 <div align="center">
 
-#  M A N I A  R A U F 
+#  M A N I A    R A U F 
 
 ### FINTECH • DATA • TECHNOLOGY
 
