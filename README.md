@@ -1,6 +1,6 @@
 <div align="center">
 
-#  M A N I A 
+#  M A N I A  R A U F 
 
 ### FINTECH • DATA • TECHNOLOGY
 
@@ -42,9 +42,6 @@ I believe the best way to learn technology is to **build with it**.
 <td width="40%">
 
 ### ⚡ PROFILE
-
-**🎓 Education**  
-BS FinTech
 
 **🐍 Programming**  
 Python
