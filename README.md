@@ -1,20 +1,11 @@
 <div align="center">
 
-#  MANIA    RAUF 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080F1E,50:123B63,100:176B87&height=190&section=header&text=MANIA%20RAUF&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=FINTECH%20%7C%20DATA%20%7C%20TECHNOLOGY&descSize=17&descAlignY=60&descColor=36D9F5" width="100%"/>
 
-### FINTECH • DATA • TECHNOLOGY
+### Building at the intersection of Finance, Data & Technology.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=8B7CFF&center=true&vCenter=true&width=720&lines=BS+FinTech+Student+%F0%9F%8E%93;Python+%7C+Power+BI+%7C+Data+Analytics;Building+with+Data+%26+Technology+%F0%9F%93%8A;Exploring+the+Future+of+FinTech+%F0%9F%92%B0" />
-
-<br>
-
-<a href="https://github.com/maniakhan15">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/maniakhan/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-080F1E?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/maniakhan15)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 
 </div>
 
@@ -240,7 +231,12 @@ Exploring Python-based analytics, data cleaning, visualization and financial dat
 <a href="https://github.com/maniakhan15">
 <img src="https://img.shields.io/badge/GITHUB-maniakhan15-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+<br><br>
+<div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=maniakhan15&label=PROFILE+VIEWS&color=0B1220&style=for-the-badge" alt="Profile Views"/>
+
+</div>
 <br><br>
 
 💻 **Python** &nbsp; • &nbsp; 📊 **Data** &nbsp; • &nbsp; 💰 **FinTech** &nbsp; • &nbsp; 🚀 **Technology**
